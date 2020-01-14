@@ -54,15 +54,15 @@ experiences:
       company: Data Driven Software Technology Laboratory (DDST)
       details: |
           - I am an undergraduate researcher, advised by Prof. Yanmin Zhu.
-          - Focusing on urban computing and urban data mining.
-          - Conducting a comprehensive study on exploring.
+          - Focus on urban computing and urban data mining.
+          - Conduct a comprehensive study on exploring.
           
     - role: Research Intern
       time: 2019.8 - 2019.12
       company: Pennsylvania State University
       details: |
           - I am an research intern, advised by Prof. Jessie Li.
-          - Focusing on "learning to simulate", making the simulator closer to the real world.
+          - Focus on "learning to simulate", making the simulator closer to the real world.
           - Try to use the combination of physic model and deep neural networks, for a good performance when the data is insufficient.
 
 projects:
@@ -100,23 +100,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: C++
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Unity & C#
+        level: 100%
+        
+      - name: Javascript 
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
