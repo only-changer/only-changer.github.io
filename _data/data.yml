@@ -67,6 +67,7 @@ experiences:
 
 projects:
     title: Projects
+    intro: |
     assignments:
       - title: Learning to Simulate
         tagline: "We focus on reducing the gap between simulator and the real world, finding solutions to different problems."
