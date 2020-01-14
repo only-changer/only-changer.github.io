@@ -73,15 +73,15 @@ projects:
 
       - title: City Traffic Simulator
         link: "https://github.com/Hzfengsy/City-Simulator"
-        tagline: "Built a city traffic simulator, serving reinforcement learning algorithm as a multi-agent reinforcement learning environment."
+        tagline: "We Built a city traffic simulator, serving reinforcement learning algorithm as a multi-agent reinforcement learning environment."
 
       - title: Shared Bike System in Urban Computing
         link: "https://github.com/only-changer/Mobike-Cup"
-        tagline: "ocusing on transfer learning and spatial-temporal analysis in shared bike system, I wrote a paper proposing a model combined with principle component analysis, discrete wavelet transform and attention mechanism."
+        tagline: "Focusing on transfer learning and spatial-temporal analysis in shared bike system, I wrote a paper proposing a model combined with principle component analysis, discrete wavelet transform and attention mechanism."
 
       - title: Mx Compiler
         link: "https://github.com/only-changer/Mx_Compiler"
-        tagline: "Designed a compiler implemented in Java from scratch, translating a Java-and-C-like language to NASM, and implemented optimizations for the compiler, faster than gcc O1 on some test sets."
+        tagline: "I designed a compiler implemented in Java from scratch, translating a Java-and-C-like language to NASM, and implemented optimizations for the compiler, faster than gcc O1 on some test sets."
 
       - title: Shor Algorithm
         link: "https://github.com/only-changer/shor"
