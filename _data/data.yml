@@ -51,90 +51,50 @@ education:
 experiences:
     - role: Undergraduate Researcher
       time: 2018 - 2019
-      laborator: Data Driven Software Technology Laboratory
-      advisor: Prof. Yanmin Zhu
+      company: Data Driven Software Technology Laboratory (DDST)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - I am an undergraduate researcher, advised by Prof. Yanmin Zhu.
+          - Focusing on urban computing and urban data mining.
+          - Conducting a comprehensive study on exploring.
+          
+    - role: Research Intern
+      time: 2019.8 - 2019.12
+      company: Pennsylvania State University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - I am an research intern, advised by Prof. Jessie Li.
+          - Focusing on "learning to simulate", making the simulator closer to the real world.
+          - Try to use the combination of physic model and deep neural networks, for a good performance when the data is insufficient.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Learning to Simulate
+        tagline: "We focus on reducing the gap between simulator and the real world, finding solutions to different problems."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: City Traffic Simulator
+        link: "https://github.com/Hzfengsy/City-Simulator"
+        tagline: "Built a city traffic simulator, serving reinforcement learning algorithm as a multi-agent reinforcement learning environment."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Shared Bike System in Urban Computing
+        link: "https://github.com/only-changer/Mobike-Cup"
+        tagline: "ocusing on transfer learning and spatial-temporal analysis in shared bike system, I wrote a paper proposing a model combined with principle component analysis, discrete wavelet transform and attention mechanism."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Mx Compiler
+        link: "https://github.com/only-changer/Mx_Compiler"
+        tagline: "Designed a compiler implemented in Java from scratch, translating a Java-and-C-like language to NASM, and implemented optimizations for the compiler, faster than gcc O1 on some test sets."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Shor Algorithm
+        link: "https://github.com/only-changer/shor"
+        tagline: " A simple implement of shor algorithm in quantum computing, written by a new quantum language called Q#."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario
+        link: "https://dl.acm.org/doi/10.1145/3308558.3314139"
+        authors: Huichu Zhang, Siyuan Feng, Chang Liu, Yaoyao Ding, Yichen Zhu, Zihan Zhou, Weinan Zhang, Yong Yu, Haiming Jin, Zhenhui Li
+        conference: WWW, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
