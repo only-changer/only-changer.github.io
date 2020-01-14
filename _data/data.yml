@@ -90,7 +90,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: CityFlow: A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario
+      - title: CityFlow: A Multi Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario
         link: "https://dl.acm.org/doi/10.1145/3308558.3314139"
         authors: Huichu Zhang, Siyuan Feng, Chang Liu, Yaoyao Ding, Yichen Zhu, Zihan Zhou, Weinan Zhang, Yong Yu, Haiming Jin, Zhenhui Li
         conference: WWW, 2019
