@@ -77,7 +77,7 @@ projects:
 
       - title: Shared Bike System in Urban Computing
         link: "https://github.com/only-changer/Mobike-Cup"
-        tagline: "ocusing on transfer learning and spatial-temporal analysis in shared bike system, I wrote a paper proposing a model combined with principle component analysis, discrete wavelet transform and attention mechanism."
+        tagline: "Focusing on transfer learning and spatial-temporal analysis in shared bike system, I wrote a paper proposing a model combined with principle component analysis, discrete wavelet transform and attention mechanism."
 
       - title: Mx Compiler
         link: "https://github.com/only-changer/Mx_Compiler"
