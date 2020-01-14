@@ -69,7 +69,7 @@ projects:
     title: Projects
     assignments:
       - title: Learning to Simulate
-        tagline: "We focus on reducing the gap between simulator and the real world, finding solutions to different problems."
+        tagline: "We are focusing on reducing the gap between simulator and the real world, finding solutions to different problems."
 
       - title: City Traffic Simulator
         link: "https://github.com/Hzfengsy/City-Simulator"
@@ -114,6 +114,8 @@ skills:
         
       - name: Javascript 
         level: 90%
+      - name: Pascal
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
