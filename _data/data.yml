@@ -112,10 +112,17 @@ skills:
       - name: Unity & C#
         level: 100%
         
-      - name: Javascript 
-        level: 90%
+      - name: Matlab 
+        level: 100%
+        
       - name: Pascal
         level: 100%
+        
+      - name: Javascript 
+        level: 90%
+        
+      - name: Q#
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
