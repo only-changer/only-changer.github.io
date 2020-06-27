@@ -50,26 +50,51 @@ education:
         
 experiences:
     - role: Undergraduate Researcher
-      time: 2018 - 2019
-      company: Data Driven Software Technology Laboratory (DDST)
+      time: 2018.7 - 2019.7
+      company: Data Driven Software Technology Laboratory, Shanghai Jiao Tong University
       details: |
           - I am an undergraduate researcher, advised by Prof. Yanmin Zhu.
           - Focus on urban computing and urban data mining.
           - Conduct a comprehensive study on exploring.
           
     - role: Research Intern
-      time: 2019.8 - 2019.12
+      time: 2019.8 - 2020.1
       company: Pennsylvania State University
       details: |
           - I am an research intern, advised by Prof. Jessie Li.
           - Focus on "learning to simulate", making the simulator closer to the real world.
           - Try to use the combination of physic model and deep neural networks, for a good performance when the data is insufficient.
+    
+    - role: Undergraduate Researcher
+      time: 2020.2 - 2020.6
+      company: APEX Data \& Knowledge Management Laboratory, Shanghai Jiao Tong University
+      details: |
+          - I am an undergraduate researcher, advised by Prof. Weinan Zhang.
+          - Focus on improve the genaralization ability of traffic signal control models.
+          - Propose a novel meta-RL framework and conduct extensive experiments.
+
+publications:
+    title: Publications
+    papers:
+      - title: Learning to Simulate on Sparse Trajectory Data
+        link: 
+        authors: Hua Wei, Chacha Chen, Chang Liu, Guanjie Zheng, and Zhenhui Li
+        conference: ECML-PKDD, 2020
+
+      - title: CityFlow A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario
+        link: "https://dl.acm.org/doi/10.1145/3308558.3314139"
+        authors: Huichu Zhang, Siyuan Feng, Chang Liu, Yaoyao Ding, Yichen Zhu, Zihan Zhou, Weinan Zhang, Yong Yu, Haiming Jin, Zhenhui Li
+        conference: WWW, 2019
+
 
 projects:
     title: Projects
     assignments:
+      - title: Generalized Traffic Signal Control System
+        tagline: "We propose a novel meta-RL framework GeneraLight for traffic light signal control models, which can significantly improve their generalization ability to different environments."
+
       - title: Learning to Simulate
-        tagline: "We are focusing on reducing the gap between simulator and the real world, finding solutions to different problems."
+        tagline: "We focus on reducing the gap between simulator and the real world, finding solutions to different problems."
 
       - title: City Traffic Simulator
         link: "https://github.com/Hzfengsy/City-Simulator"
@@ -87,14 +112,6 @@ projects:
         link: "https://github.com/only-changer/shor"
         tagline: " A simple implement of shor algorithm in quantum computing, written by a new quantum language called Q#."
 
-publications:
-    title: Publications
-    papers:
-      - title: CityFlow A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario
-        link: "https://dl.acm.org/doi/10.1145/3308558.3314139"
-        authors: Huichu Zhang, Siyuan Feng, Chang Liu, Yaoyao Ding, Yichen Zhu, Zihan Zhou, Weinan Zhang, Yong Yu, Haiming Jin, Zhenhui Li
-        conference: WWW, 2019
-
 
 skills:
     title: Skills &amp; Proficiency
@@ -103,10 +120,10 @@ skills:
       - name: Python 
         level: 100%
 
-      - name: Java
+      - name: C++ & C
         level: 100%
 
-      - name: C++
+      - name: JAVA
         level: 100%
 
       - name: Unity & C#
