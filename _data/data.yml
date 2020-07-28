@@ -75,8 +75,9 @@ experiences:
 
 publications:
     title: Publications
+    * means equal contribution
     papers:
-      - title: GeneraLight: Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
+      - title: GeneraLight Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
         link: 
         authors: Huichu Zhang*, Chang Liu*, Weinan Zhang, Guanjie Zheng and Yong Yu
         conference: CIKM, 2020
