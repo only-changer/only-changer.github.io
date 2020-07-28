@@ -72,24 +72,23 @@ experiences:
           - I am an undergraduate researcher, advised by Prof. Weinan Zhang.
           - Focus on improve the genaralization ability of traffic signal control models.
           - Propose a novel meta-RL framework and conduct extensive experiments.
-bold:
-- Chang Liu
+
 publications:
     title: Publications
     papers:
       - title: GeneraLight Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
         link: 
-        authors: Huichu Zhang*, Chang Liu* (equal contribution), Weinan Zhang, Guanjie Zheng and Yong Yu
+        authors: Huichu Zhang*, `**Chang Liu**`* (equal contribution), Weinan Zhang, Guanjie Zheng and Yong Yu
         conference: CIKM, 2020
         
       - title: Learning to Simulate on Sparse Trajectory Data
         link: 
-        authors: Hua Wei, Chacha Chen, Chang Liu, Guanjie Zheng, and Zhenhui Li
+        authors: Hua Wei, Chacha Chen, `**Chang Liu**`, Guanjie Zheng, and Zhenhui Li
         conference: ECML-PKDD, 2020
 
       - title: CityFlow A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario
         link: "https://dl.acm.org/doi/10.1145/3308558.3314139"
-        authors: Huichu Zhang, Siyuan Feng, Chang Liu, Yaoyao Ding, Yichen Zhu, Zihan Zhou, Weinan Zhang, Yong Yu, Haiming Jin, Zhenhui Li
+        authors: Huichu Zhang, Siyuan Feng, `**Chang Liu**`, Yaoyao Ding, Yichen Zhu, Zihan Zhou, Weinan Zhang, Yong Yu, Haiming Jin, Zhenhui Li
         conference: WWW, 2019
 
 
