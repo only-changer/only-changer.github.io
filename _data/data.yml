@@ -75,7 +75,6 @@ experiences:
 
 publications:
     title: Publications
-    * means equal contribution
     papers:
       - title: GeneraLight: Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
         link: 
