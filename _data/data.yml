@@ -47,6 +47,9 @@ education:
     - degree: BSc in Computer Science
       university: Shanghai Jiao Tong University
       time: 2016 - 2020
+    - degree: Ph.D. in Computer Science
+      university: Shanghai Jiao Tong University
+      time: 2020 - present
         
 experiences:
     - role: Undergraduate Researcher
@@ -72,6 +75,14 @@ experiences:
           - I am an undergraduate researcher, advised by Prof. Weinan Zhang.
           - Focus on improve the genaralization ability of traffic signal control models.
           - Propose a novel meta-RL framework and conduct extensive experiments.
+          
+     - role: Ph.D. Researcher
+      time: 2020.9 - present
+      company: Artificial Intelligence Institute, Shanghai Jiao Tong University
+      details: |
+          - I am an Ph.D. researcher, advised by Prof. Hongyuan Zha and Prof. Junchi Yan.
+          - Focus on utilizing machine learning methods to solve combinatorial optimization problems.
+     
 
 publications:
     title: Publications
@@ -81,7 +92,7 @@ publications:
         authors: Huichu Zhang*, <strong>Chang Liu</strong>* (equal contribution), Weinan Zhang, Guanjie Zheng, Yong Yu
         conference: CIKM, 2020
         
-      - title: Learning to Simulate on Sparse Trajectory Data (<strong>Best Paper Award</strong>)
+      - title: Learning to Simulate on Sparse Trajectory Data (<strong>Best ADS Paper Award</strong>)
         link: 
         authors: Hua Wei, Chacha Chen, <strong>Chang Liu</strong>, Guanjie Zheng, Zhenhui Li
         conference: ECML-PKDD, 2020
