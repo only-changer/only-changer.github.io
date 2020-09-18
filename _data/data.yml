@@ -88,8 +88,8 @@ publications:
     title: Publications
     papers:
       - title: GeneraLight Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
-        link: 
-        authors: Huichu Zhang*, <strong>Chang Liu</strong>* (equal contribution), Weinan Zhang, Guanjie Zheng, Yong Yu
+        link: "https://arxiv.org/abs/2009.08052"
+        authors: <strong>Chang Liu</strong>*, Huichu Zhang*, Weinan Zhang, Guanjie Zheng, Yong Yu
         conference: CIKM, 2020
         
       - title: Learning to Simulate on Sparse Trajectory Data (<strong>Best ADS Paper Award</strong>)
