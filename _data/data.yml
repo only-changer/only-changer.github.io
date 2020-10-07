@@ -87,6 +87,11 @@ experiences:
 publications:
     title: Publications
     papers:
+      - title: Rebuilding City-Wide Traffic from Multi-Source Data
+        link: 
+        authors: Guanjie Zheng*, <strong>Chang Liu</strong>*(equal contribution), Hua Wei, Chacha Chen, Zhenhui Li.
+        conference: ICDE, 2021
+        
       - title: GeneraLight Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
         link: "https://arxiv.org/abs/2009.08052"
         authors: <strong>Chang Liu</strong>*, Huichu Zhang*, Weinan Zhang, Guanjie Zheng, Yong Yu
