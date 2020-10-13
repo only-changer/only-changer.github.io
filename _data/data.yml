@@ -88,7 +88,7 @@ publications:
     title: Publications
     papers:
       - title: Rebuilding City-Wide Traffic from Multi-Source Data
-        link: "http://personal.psu.edu/hzw77/publications/imingail-ecmlpkdd20.pdf"
+        link: 
         authors: Guanjie Zheng*, <strong>Chang Liu</strong>*(equal contribution), Hua Wei, Chacha Chen, Zhenhui Li.
         conference: ICDE, 2021
         
@@ -98,7 +98,7 @@ publications:
         conference: CIKM, 2020
         
       - title: Learning to Simulate on Sparse Trajectory Data (<strong>Best ADS Paper Award</strong>)
-        link: 
+        link: "http://personal.psu.edu/hzw77/publications/imingail-ecmlpkdd20.pdf"
         authors: Hua Wei, Chacha Chen, <strong>Chang Liu</strong>, Guanjie Zheng, Zhenhui Li
         conference: ECML-PKDD, 2020
 
