@@ -112,9 +112,11 @@ projects:
     title: Projects
     assignments:
       - title: Generalized Traffic Signal Control System
+        link: "https://github.com/only-changer/GeneraLight.git"
         tagline: "We propose a novel meta-RL framework GeneraLight for traffic light signal control models, which can significantly improve their generalization ability to different environments."
 
       - title: Learning to Simulate
+        link: "https://github.com/wingsweihua/imingail.git"
         tagline: "We focus on reducing the gap between simulator and the real world, finding solutions to different problems."
 
       - title: City Traffic Simulator
