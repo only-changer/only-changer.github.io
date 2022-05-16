@@ -87,6 +87,12 @@ experiences:
 publications:
     title: Publications
     papers:
+    
+      - title: Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning
+        link: ""
+        authors: <strong>Chang Liu</strong>, Chenfei Lou, Runzhong Wang, Yuhan Xi, Li Shen, Junchi Yan.
+        conference: ICML, 2022
+        
       - title: Knowledge-based Residual Learning
         link: "https://www.ijcai.org/proceedings/2021/0228.pdf"
         authors: Guanjie Zheng, <strong>Chang Liu</strong>, Hua Wei, Porter Jenkins, Chacha Chen, Tao Wen, Zhenhui Li.
