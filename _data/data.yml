@@ -87,9 +87,13 @@ experiences:
 publications:
     title: Publications
     papers:
+      - title: Self-supervised Learning of Visual Graph Matching
+        link: ""
+        authors: <strong>Chang Liu</strong>*(equal contribution), Shaofeng Zhang*, Xiaokang Yang, Junchi Yan.
+        conference: ECCV, 2022
     
       - title: Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning
-        link: ""
+        link: "https://proceedings.mlr.press/v162/liu22k.html"
         authors: <strong>Chang Liu</strong>, Chenfei Lou, Runzhong Wang, Yuhan Xi, Li Shen, Junchi Yan.
         conference: ICML, 2022
         
@@ -100,7 +104,7 @@ publications:
         
       - title: Rebuilding City-Wide Traffic from Multi-Source Data
         link: "https://ieeexplore.ieee.org/abstract/document/9458853"
-        authors: Guanjie Zheng*, <strong>Chang Liu</strong>*(equal contribution), Hua Wei, Chacha Chen, Zhenhui Li.
+        authors: Guanjie Zheng*, <strong>Chang Liu</strong>*, Hua Wei, Chacha Chen, Zhenhui Li.
         conference: ICDE, 2021
         
       - title: GeneraLight Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
