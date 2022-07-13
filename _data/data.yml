@@ -126,6 +126,10 @@ publications:
 projects:
     title: Projects
     assignments:
+      - title: Reinforcement Learning for Combinatorial Optimization Problems
+        link: "https://github.com/Thinklab-SJTU/awesome-ml4co.git"
+        tagline: "We maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems (ML4CO), which has gained more than 700 stars on Github."
+        
       - title: Generalized Traffic Signal Control System
         link: "https://github.com/only-changer/GeneraLight.git"
         tagline: "We propose a novel meta-RL framework GeneraLight for traffic light signal control models, which can significantly improve their generalization ability to different environments."
