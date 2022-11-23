@@ -87,8 +87,13 @@ experiences:
 publications:
     title: Publications
     papers:
+      - title: A Survey for Solving Mixed Integer Programming via Machine Learning
+        link: "https://www.sciencedirect.com/science/article/pii/S0925231222014035"
+        authors: Jiayi Zhang, <strong>Chang Liu</strong>, Xijun Li, Hui-Ling Zhen, Mingxuan Yuan, Yawen Li, Junchi Yan.
+        conference: Neurocomputing
+        
       - title: Self-supervised Learning of Visual Graph Matching
-        link: ""
+        link: "https://link.springer.com/chapter/10.1007/978-3-031-20050-2_22"
         authors: <strong>Chang Liu</strong>*(equal contribution), Shaofeng Zhang*, Xiaokang Yang, Junchi Yan.
         conference: ECCV, 2022
     
