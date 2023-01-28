@@ -87,6 +87,11 @@ experiences:
 publications:
     title: Publications
     papers:
+      - title: Revocable Deep Reinforcement Learning with Affinity Regularization for Outlier-Robust Graph Matching
+        link: "https://openreview.net/forum?id=QjQibO3scV_"
+        authors: <strong>Chang Liu</strong>, Zetian Jiang, Runzhong Wang, Lingxiao Huang, Pinyan Lu, Junchi Yan.
+        conference: ICLR, 2023
+        
       - title: A Survey for Solving Mixed Integer Programming via Machine Learning
         link: "https://www.sciencedirect.com/science/article/pii/S0925231222014035"
         authors: Jiayi Zhang, <strong>Chang Liu</strong>, Xijun Li, Hui-Ling Zhen, Mingxuan Yuan, Yawen Li, Junchi Yan.
@@ -109,12 +114,12 @@ publications:
         
       - title: Rebuilding City-Wide Traffic from Multi-Source Data
         link: "https://ieeexplore.ieee.org/abstract/document/9458853"
-        authors: Guanjie Zheng*, <strong>Chang Liu</strong>*, Hua Wei, Chacha Chen, Zhenhui Li.
+        authors: Guanjie Zheng*, <strong>Chang Liu</strong>*(equal contribution), Hua Wei, Chacha Chen, Zhenhui Li.
         conference: ICDE, 2021
         
       - title: GeneraLight Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
         link: "https://arxiv.org/abs/2009.08052"
-        authors: <strong>Chang Liu</strong>*, Huichu Zhang*, Weinan Zhang, Guanjie Zheng, Yong Yu
+        authors: <strong>Chang Liu</strong>*(equal contribution), Huichu Zhang*, Weinan Zhang, Guanjie Zheng, Yong Yu
         conference: CIKM, 2020
         
       - title: Learning to Simulate on Sparse Trajectory Data (<strong>Best ADS Paper Award</strong>)
