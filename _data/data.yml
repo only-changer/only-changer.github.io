@@ -114,7 +114,7 @@ publications:
         
       - title: Rebuilding City-Wide Traffic from Multi-Source Data
         link: "https://ieeexplore.ieee.org/abstract/document/9458853"
-        authors: Guanjie Zheng*, <strong>Chang Liu</strong>*(equal contribution), Hua Wei, Chacha Chen, Zhenhui Li.
+        authors: <strong>Chang Liu</strong>*(equal contribution), Guanjie Zheng*, Hua Wei, Chacha Chen, Zhenhui Li.
         conference: ICDE, 2021
         
       - title: GeneraLight Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning
