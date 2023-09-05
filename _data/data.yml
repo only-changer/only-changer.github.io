@@ -22,7 +22,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    website: scholar.google.com/citations?user=BTu8eaQAAAAJ #do not add http://
+    website: <a href="scholar.google.com/citations?user=BTu8eaQAAAAJ"><h1>Google Scholar</h1></a> #do not add http://
 
     languages:
       - idiom: Chinese
