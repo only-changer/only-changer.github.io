@@ -52,13 +52,21 @@ education:
       time: 2020 - present
         
 experiences:
-    - role: Undergraduate Researcher
-      time: 2018.7 - 2019.7
-      company: Data Driven Software Technology Laboratory, Shanghai Jiao Tong University
+    - role: Ph.D. Researcher
+      time: 2020.9 - present
+      company: Artificial Intelligence Institute, Shanghai Jiao Tong University
       details: |
-          - I am an undergraduate researcher, advised by Prof. Yanmin Zhu.
-          - Focus on urban computing and urban data mining.
-          - Conduct a comprehensive study on exploring.
+          - I am an Ph.D. researcher, advised by Prof. Hongyuan Zha and Prof. Junchi Yan.
+          - Focus on utilizing machine learning methods to solve combinatorial optimization problems. 
+          
+    - role: Undergraduate Researcher
+      time: 2020.2 - 2020.6
+      company: APEX Data & Knowledge Management Laboratory, Shanghai Jiao Tong University
+      details: |
+          - I am an undergraduate researcher, advised by Prof. Weinan Zhang.
+          - Focus on improve the genaralization ability of traffic signal control models.
+          - Propose a novel meta-RL framework and conduct extensive experiments.
+    
           
     - role: Research Intern
       time: 2019.8 - 2020.1
@@ -67,21 +75,18 @@ experiences:
           - I am an research intern, advised by Prof. Jessie Li.
           - Focus on "learning to simulate", making the simulator closer to the real world.
           - Try to use the combination of physic model and deep neural networks, for a good performance when the data is insufficient.
-    
+
     - role: Undergraduate Researcher
-      time: 2020.2 - 2020.6
-      company: APEX Data & Knowledge Management Laboratory, Shanghai Jiao Tong University
+      time: 2018.7 - 2019.7
+      company: Data Driven Software Technology Laboratory, Shanghai Jiao Tong University
       details: |
-          - I am an undergraduate researcher, advised by Prof. Weinan Zhang.
-          - Focus on improve the genaralization ability of traffic signal control models.
-          - Propose a novel meta-RL framework and conduct extensive experiments.
+          - I am an undergraduate researcher, advised by Prof. Yanmin Zhu.
+          - Focus on urban computing and urban data mining.
+          - Conduct a comprehensive study on exploring.
+    
+    
           
-    - role: Ph.D. Researcher
-      time: 2020.9 - present
-      company: Artificial Intelligence Institute, Shanghai Jiao Tong University
-      details: |
-          - I am an Ph.D. researcher, advised by Prof. Hongyuan Zha and Prof. Junchi Yan.
-          - Focus on utilizing machine learning methods to solve combinatorial optimization problems.
+    
      
 
 publications:
@@ -138,7 +143,7 @@ projects:
     assignments:
       - title: Reinforcement Learning for Combinatorial Optimization Problems
         link: "https://github.com/Thinklab-SJTU/awesome-ml4co.git"
-        tagline: "We maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems (ML4CO), which has gained more than 700 stars on Github."
+        tagline: "We maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems (ML4CO), which has gained more than 1,000 stars on Github."
         
       - title: Generalized Traffic Signal Control System
         link: "https://github.com/only-changer/GeneraLight.git"
