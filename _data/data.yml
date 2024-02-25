@@ -92,6 +92,12 @@ experiences:
 publications:
     title: Publications
     papers:
+
+      - title: L2P-MIP: Learning to Presolve for Mixed Integer Programming
+        link: "https://openreview.net/forum?id=McfYbKnpT8"
+        authors: <strong>Chang Liu</strong>, Zhichen Dong, Haobo Ma, Weilin Luo, Xijun Li, Bowen Pang, Jia Zeng, Junchi Yan.
+        conference: ICLR, 2024
+        
       - title: Revocable Deep Reinforcement Learning with Affinity Regularization for Outlier-Robust Graph Matching
         link: "https://openreview.net/forum?id=QjQibO3scV_"
         authors: <strong>Chang Liu</strong>, Zetian Jiang, Runzhong Wang, Lingxiao Huang, Pinyan Lu, Junchi Yan.
