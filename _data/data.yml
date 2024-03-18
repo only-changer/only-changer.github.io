@@ -56,8 +56,16 @@ experiences:
       time: 2020.9 - present
       company: Artificial Intelligence Institute, Shanghai Jiao Tong University
       details: |
-          - I am an Ph.D. researcher, advised by Prof. Hongyuan Zha and Prof. Junchi Yan.
+          - I am a Ph.D. researcher, advised by Prof. Hongyuan Zha and Prof. Junchi Yan.
           - Focus on utilizing machine learning methods to solve combinatorial optimization problems in the real world.
+
+    - role: Research Intern
+      time: 2022.1 - 2022.1
+      company:Decision Making and Reasoning Laboratory, Huawei Noah’s Ark Laboratory
+      details: |
+          - I am a research intern, advised by Prof. Xijun Li and Prof. Jia Zeng.
+          - Focus on using deep learning approaches to improve the solving of mix-integer programming (MIP).
+          - Propose to improve the presolving part in model MIP solvers. The results on both common MIP datasets and Huawei's industrial scenarios have demonstrated the performance of our proposed method.
           
     - role: Undergraduate Researcher
       time: 2020.2 - 2020.6
@@ -72,7 +80,7 @@ experiences:
       time: 2019.8 - 2020.1
       company: Pennsylvania State University
       details: |
-          - I am an research intern, advised by Prof. Jessie Li.
+          - I am a research intern, advised by Prof. Jessie Li.
           - Focus on "learning to simulate", making the simulator closer to the real world.
           - Try to use the combination of physic model and deep neural networks, for a good performance when the data is insufficient.
 
@@ -92,7 +100,11 @@ experiences:
 publications:
     title: Publications
     papers:
-
+      - title: Towards General Loop Invariant Generation via Coordinating Symbolic Execution and Large Language Model
+        link: "https://arxiv.org/abs/2311.10483"
+        authors: <strong>Chang Liu</strong>, Xiwei Wu, Yuan Feng, Qinxiang Cao, Junchi Yan.
+        conference: Preprint, under review.
+        
       - title: L2P-MIP Learning to Presolve for Mixed Integer Programming
         link: "https://openreview.net/forum?id=McfYbKnpT8"
         authors: <strong>Chang Liu</strong>, Zhichen Dong, Haobo Ma, Weilin Luo, Xijun Li, Bowen Pang, Jia Zeng, Junchi Yan.
@@ -147,7 +159,7 @@ publications:
 projects:
     title: Projects
     assignments:
-      - title: Reinforcement Learning for Combinatorial Optimization Problems
+      - title: Machine Learning for Combinatorial Optimization Problems
         link: "https://github.com/Thinklab-SJTU/awesome-ml4co.git"
         tagline: "We maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems (ML4CO), which has gained more than 1,000 stars on Github."
         
