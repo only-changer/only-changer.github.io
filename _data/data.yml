@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I am a Ph.D. student majoring in Computer Science at Shanghai Jiao Tong University.
+      I am a Ph.D. student majoring in Computer Science at Shanghai Jiao Tong University, a member of the Wen-Tsun Wu AI honorary doctoral class.
       I obtained my B.Eng. majoring in CS at SJTU as a member of ACM Honors Class, which is an elite CS program at SJTU for the top 5% talented students.
 education:
     - degree: BSc in Computer Science
@@ -61,7 +61,7 @@ experiences:
 
     - role: Research Intern
       time: 2022.1 - 2022.1
-      company:Decision Making and Reasoning Laboratory, Huawei Noah’s Ark Laboratory
+      company: Decision Making and Reasoning Laboratory, Huawei Noah’s Ark Laboratory
       details: |
           - I am a research intern, advised by Prof. Xijun Li and Prof. Jia Zeng.
           - Focus on using deep learning approaches to improve the solving of mix-integer programming (MIP).
@@ -72,7 +72,7 @@ experiences:
       company: APEX Data & Knowledge Management Laboratory, Shanghai Jiao Tong University
       details: |
           - I am an undergraduate researcher, advised by Prof. Weinan Zhang.
-          - Focus on improve the genaralization ability of traffic signal control models.
+          - Focus on improving the generalization ability of traffic signal control models.
           - Propose a novel meta-RL framework and conduct extensive experiments.
     
           
