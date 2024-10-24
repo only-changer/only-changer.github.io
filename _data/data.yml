@@ -103,7 +103,7 @@ publications:
       - title: Towards General Loop Invariant Generation via Coordinating Symbolic Execution and Large Language Model
         link: "https://arxiv.org/abs/2311.10483"
         authors: <strong>Chang Liu</strong>, Xiwei Wu, Yuan Feng, Qinxiang Cao, Junchi Yan.
-        conference: Preprint, under review.
+        conference: NeurIPS, 2024
         
       - title: L2P-MIP Learning to Presolve for Mixed Integer Programming
         link: "https://openreview.net/forum?id=McfYbKnpT8"
